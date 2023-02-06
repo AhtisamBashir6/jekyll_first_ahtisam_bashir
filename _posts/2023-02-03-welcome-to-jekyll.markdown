@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Mount Techie"
+title:  "Welcome to Mount Techie Ahtisam"
 date:   2023-02-03 10:19:32 +0530
 categories: jekyll update
 ---
