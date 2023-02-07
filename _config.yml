@@ -2,7 +2,7 @@ title: Jekyll Site
 email: ahtisam.bashir@apexure.com
 description: Basic understanding of jekyll.
 baseurl: "" 
-url: "" 
+url: "https://ahtisambashir6.github.io/jekyll_first_ahtisam_bashir/" 
 theme: minima
 plugins:
   - jekyll-feed
